@@ -54,7 +54,7 @@ A map unit can be made of up of different amounts of a component and also each c
 
 
 ### Horizons
-These are the differnet layers in a soil or component. They are typically classified:
+These are the different layers in a soil or component. They are typically classified:
 
 These are the master horizons. They have unique chemical, physical and biological properties
 
