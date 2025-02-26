@@ -2,6 +2,10 @@
 The data in `soil_data.csv` is produced from Arizona soil data taken from SSURGO [here](https://websoilsurvey.nrcs.usda.gov/app/WebSoilSurvey.aspx). The csv is produced from the associated notebook.
 
 
+# Instructions
+1. Install the requirements in requirements.txt
+2. Run the notebook `extract_soil_data.ipynb` to get the final output
+
 # Notes
 Each area has comes with tabular and spatial information. 
 
