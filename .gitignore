@@ -1,2 +1,4 @@
 .python-version
 datasets
+.DS_Store
+.ipynb_checkpoints
